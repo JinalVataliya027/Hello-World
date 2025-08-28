@@ -12,6 +12,6 @@ My First GitHub Repository For Learning And Practice.
 # Connect With Me
 - GitHub:
 - LinkedIn:
-- Email:
+- Email:vataliyajinal6@Gmail.Com
   
 
