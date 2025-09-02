@@ -9,9 +9,6 @@ My First GitHub Repository For Learning And Practice.
 # Current Learning 
 - Data Science RoadMap(Beginner->Advanced)
 - Building Projects in Python
-# Connect With Me
-- GitHub:
-- LinkedIn:
-- Email:vataliyajinal6@Gmail.Com
+
   
 
